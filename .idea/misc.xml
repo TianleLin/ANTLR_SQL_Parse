@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/MySqlParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src\main\java" />
+          <option name="libDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="github.com.antlr.grammars.mysql.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/MySqlLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src\main\java" />
+          <option name="libDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="github.com.antlr.grammars-v4.mysql.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/HiveLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src\main\java" />
+          <option name="libDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="github.com.antlr.grammars.hivesql.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/HiveParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src\main\java" />
+          <option name="libDir" value="C:\Users\Lin\OneDrive\UESTC\JuniorSecondSemester\intern\antlr\antlr_sql_parse\src" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="github.com.antlr.grammars.hivesql.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
